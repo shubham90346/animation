@@ -1,0 +1,291 @@
+.animate {
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 70%;
+    height: 570px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: rgb(238, 238, 238);
+}
+
+.circle {
+    width: 28%;
+    height: 220px;
+    border-radius: 50%;
+    background-color: white;
+    transform: translate(124%, 80%);
+}
+
+.circle1 {
+    width: 22%;
+    height: 170px;
+    border-radius: 50%;
+    background-color: white;
+    transform: translate(172%, -10%);
+    border: 3px solid rgb(91, 192, 235);
+}
+
+.circle2 {
+    width: 13%;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(91, 192, 235);
+    transform: translate(325%, -152%);
+}
+
+.horizontal_dotted_line {
+    border-bottom: 3px dashed rgb(91, 192, 235);
+    margin-top: -34%;
+    width: 50%;
+    margin-left: 23%;
+}
+
+.vertical_dotted_line {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 120px;
+    width: 0;
+    margin-left: 23%;
+    margin-top: -16%;
+}
+
+.vertical_dotted_line2 {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 120px;
+    width: 0;
+    margin-left: 72.5%;
+    margin-top: -15.3%;
+}
+
+.vertical_dotted_line3 {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 120px;
+    width: 0;
+    margin-left: 48.3%;
+    margin-top: -22%;
+}
+
+.horizontal_dotted_line2 {
+    border-bottom: 3px dashed rgb(91, 192, 235);
+    margin-top: 15.5%;
+    width: 62%;
+    margin-left: 17.5%;
+}
+
+.horizontal_dotted_line3 {
+    border-bottom: 3px dashed rgb(91, 192, 235);
+    margin-top: 8%;
+    width: 50%;
+    margin-left: 23%;
+}
+
+.vertical_dotted_line4 {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 110px;
+    width: 0;
+    margin-left: 23%;
+    margin-top: 0.2%;
+}
+
+.vertical_dotted_line5 {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 110px;
+    width: 0;
+    margin-left: 72.5%;
+    margin-top: -14.2%;
+}
+
+.minicircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -52%;
+    margin-left: 20%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -6.4%;
+    margin-left: 69.5%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -14%;
+    margin-left: 45.4%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 46%;
+    margin-left: 20%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -6.7%;
+    margin-left: 69.6%;
+    background-color: rgb(91, 192, 235);
+}
+
+.vertical_dotted_linelast {
+    border: 2px dashed rgb(91, 192, 235);
+    height: 120px;
+    width: 0;
+    margin-left: 48.3%;
+    margin-top: -12%;
+}
+
+.minicircle6 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -0.3%;
+    margin-left: 45.4%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle7 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -35%;
+    margin-left: 13.4%;
+    background-color: rgb(91, 192, 235);
+}
+
+.minicircle8 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: -6.3%;
+    margin-left: 75.4%;
+    background-color: rgb(91, 192, 235);
+}
+
+.animatecircle {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -13.3%;
+    margin-left: 33.4%;
+}
+
+.animatecircle2 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -11%;
+    margin-left: 47.3%;
+}
+
+.animatecircle3 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 5.8%;
+    margin-left: 61.3%;
+}
+
+.animatecircle4 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 6.2%;
+    margin-left: 31.5%;
+}
+
+.animatecircle5 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -2.4%;
+    margin-left: 63%;
+}
+
+.animatecircle6 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 5.9%;
+    margin-left: 34.9%;
+    animation: circle11 4s infinite;
+}
+
+.animatecircle7 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 3.4%;
+    margin-left: 26.9%;
+    animation: circle12 4s infinite;
+    bottom: 10;
+    position: absolute;
+
+}
+
+.animatecircle8 {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgb(91, 192, 235);
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -2.5%;
+    margin-left: 59.8%;
+    animation: circle 4s infinite;
+}
+
+@keyframes circle {
+    0% {
+        transform:  translate(-5px);
+    }
+
+    100% {
+        transform:  translate(95px) ;
+    }
+}
+@keyframes circle11 {
+    0% {
+        transform: translatex(5px);
+    }
+    50%{
+        transform: translate(-95px);
+    }
+}
+
+@keyframes circle12 {
+    0% {
+        transform: translateY(60px);
+    }
+    50% {
+     
+        transform: translateY(-30px);
+    }
+    100% {
+        transform: translateY(60px);
+    }
+}
